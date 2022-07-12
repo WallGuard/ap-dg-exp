@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "exclude": "/node_modules/",
+  "compact" : true,
+  "plugins": [
+    "@babel/transform-runtime"
+  ]
+}
